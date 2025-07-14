@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "echo 'No build process needed for vanilla JS'",
+        "build": "echo 'No build process needed for vanilla JS'"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "lodash": "^4.17.19"
+    }
+}
